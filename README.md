@@ -1,16 +1,17 @@
-## Hi there 👋
+<img align="center" alt="Coding" width="100%" height="250" src="https://www.jadeglobal.com/sites/default/files/2022-09/9-ways-to-improve-UI-in-Web-Development.jpg">
+<h1 align="center">Hi 👋, I'm Gargi</h1>
+<h3 align="center">I am a web developer passionate about frontend technologies</h3>
+<img align="right" alt="Coding" width="300" height="250" src="https://camo.githubusercontent.com/2ecf15a5a6b0879160644728c111ceb0b6dd57c03b2dc62cf237b48da507d269/68747470733a2f2f70726f322d6261722d73332d63646e2d6366352e6d79706f7274666f6c696f2e636f6d2f31376134376439653866343732376365356633653438383035623264386562322f36376362316134362d316430632d343566652d616233662d3532306534383032623162385f7277635f3078377838303078363236783830302e6769663f683d3365663338643262636563653736323033343535323538653064353835666539">
+<br>
+- 🌱 I’m currently learning **React Native , NextJs**
 
-<!--
-**Gargi223/Gargi223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gargi223&show_icons=true&locale=en&layout=compact" alt="gargi223" /> </p>
+<br>
+<p>&nbsp;<img align="right" top="60" src="https://github-readme-stats.vercel.app/api?username=gargi223&show_icons=true&locale=en" alt="gargi223" /></p>
+<br>
+<p><img align="left" margin="20"  src="https://github-readme-streak-stats.herokuapp.com/?user=gargi223&" alt="gargi223" /></p>
